@@ -1,0 +1,107 @@
+body{
+    background-color: #fffbf4;
+    margin:0;
+}
+
+header{
+    background-color: #0c3c89;
+    color:white;
+    text-align: center;
+    top:0;
+    position: fixed;
+    width: 100%;
+}
+
+#formcenter{
+    margin-left: 45%;
+    margin-top: 10%;
+}
+
+#formcenter h2{
+    text-align:left;
+}
+
+#clearList{
+    margin-left: 45%;
+    color:white;
+}
+
+#clearList form{
+    margin-left: 5%;
+}
+
+footer{
+    width:100%;
+    bottom:0;
+    position: absolute;
+    background-color: #0c3c89;
+}
+
+table {
+    width: 100%;
+}
+
+table, th, td {
+   border: 1px solid black;
+   text-align: center;
+}
+
+tr:hover {
+    background-color: #f5f5f5;
+    font-size:2em;
+}
+
+#toDotable{
+    margin-top:5%;
+    margin-left:20%;
+    margin-right:20%;
+}
+
+h2{
+    text-align:center;
+    
+}
+
+h1{
+     text-align: center;
+     font-size:3em;
+}
+
+input{
+    font-size:1.5em;
+}
+
+select {
+     font-size:1.5em;
+}
+
+.box input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+}
+
+.box{
+    font-size:1.5em;
+}
+
+.box:hover{
+    background-color: #fffbf4;
+    font-size:2em;
+}
+
+#turnin:hover{
+    background-color:#0c3c89;
+    font-size:2em;
+    color:white;
+}
+
+#turnin2:hover{
+    background-color:#fffbf4;
+    font-size:2em;
+    color:black;
+}
+
+h3{
+    font-size:2em;
+}
